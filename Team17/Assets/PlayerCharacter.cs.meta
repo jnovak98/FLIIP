@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 492cdcf3bc59a34409490355c3d67cad
+timeCreated: 1523252421
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - RED: {instanceID: 0}
+  - BLUE: {instanceID: 0}
+  - DeathCanvas: {fileID: 1124770276849796, guid: d2088a052d5ffe948aaf06be22d6ddee,
+      type: 2}
+  - ScoreField: {instanceID: 0}
+  - CommentField: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
